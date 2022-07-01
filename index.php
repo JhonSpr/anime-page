@@ -232,7 +232,7 @@
                         <li>
                         <a href="" class="fa-play" onclick="alert('Debes Iniciar Sesion')">
                             <span class="imagen-mask">
-                                <img src="narutoShipuden.jpg" alt="miniatura">
+                                <img src="imagenes/narutoShipuden.jpg" alt="miniatura">
                             </span>
                             <span class="nCapi">Emision</span>
                             <strong class="title-cap-miniatura">Spy x Family</strong>
